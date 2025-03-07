@@ -8,3 +8,6 @@
  - Matrix text effect generator (https://github.com/agi-dude/MatrixTextGenerator)
  - AI RPG game (https://github.com/agi-dude/AI-RPG)
  - Atom of Thoughts (AoT) implementation (https://github.com/agi-dude/AtomOfThoughts)
+
+## Work in progress
+ - AI Novel Generator
