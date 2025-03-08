@@ -10,4 +10,4 @@
  - Atom of Thoughts (AoT) implementation (https://github.com/agi-dude/AtomOfThoughts)
 
 ## Work in progress
- - AI Novel Generator
+ - AI Novel Generator (https://github.com/agi-dude/AI-Novel-Maker)
