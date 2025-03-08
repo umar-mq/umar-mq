@@ -30,7 +30,7 @@ jobs:
           base: header, activity, repositories, metadata
           base_hireable: yes
           base_indepth: yes
-          config_display: columns
+          config_display: large
           config_timezone: Asia/Karachi
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -39,6 +39,7 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
+          plugin_introduction: yes
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
