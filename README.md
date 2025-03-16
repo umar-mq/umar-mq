@@ -10,6 +10,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agi-dude&repo=AI-RPG)]([https://github.com/madushadhanushka/differ](https://github.com/agi-dude/AI-RPG))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agi-dude&repo=AtomOfThoughts)]([https://github.com/madushadhanushka/differ](https://github.com/agi-dude/AtomOfThoughts))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agi-dude&repo=MatrixTextGenerator)]([https://github.com/madushadhanushka/differ](https://github.com/agi-dude/MatrixTextGenerator))
-
-## WIP (Work in progress) Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agi-dude&repo=AI-Novel-Maker)]([https://github.com/madushadhanushka/differ](https://github.com/agi-dude/AI-Novel-Maker))
