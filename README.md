@@ -1,6 +1,6 @@
 ![Metrics](./github-metrics.svg)
 
-# Hi there! 👋
+# Off on Eid break!
 
 ## Completed Projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agi-dude&repo=Face-Restoration-WebUI)]([https://github.com/madushadhanushka/differ](https://github.com/agi-dude/Face-Restoration-WebUI))
