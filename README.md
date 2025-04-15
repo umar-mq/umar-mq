@@ -10,3 +10,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agi-dude&repo=AI-RPG)]([https://github.com/madushadhanushka/differ](https://github.com/agi-dude/AI-RPG))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agi-dude&repo=AtomOfThoughts)]([https://github.com/madushadhanushka/differ](https://github.com/agi-dude/AtomOfThoughts))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agi-dude&repo=MatrixTextGenerator)]([https://github.com/madushadhanushka/differ](https://github.com/agi-dude/MatrixTextGenerator))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agi-dude&repo=rpi_mp3_player)]([https://github.com/madushadhanushka/differ](https://github.com/agi-dude/rpi_mp3_player))
