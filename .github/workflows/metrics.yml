@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: agi-dude
+          user: umar-mq
           template: classic
           base: header, activity, repositories, metadata
           base_hireable: yes
