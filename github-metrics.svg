@@ -220,14 +220,14 @@
                             <div class="label" title="Arduino is an open source platform for building electronic devices.">arduino</div>
                             <div class="label" title="C# (&amp;quot;C sharp&amp;quot;) is an object-oriented and type-safe programming language.">c#</div>
                             <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
-                            <div class="label" title="Bot, Command-line interface, JSON, Raspberry Pi, Unity, Ubuntu, Jupyter Notebook, Kotlin, Firefox, npm, Flask">and 11 more...</div>
+                            <div class="label" title="Bot, Command-line interface, JSON, Raspberry Pi, unity, Ubuntu, Jupyter Notebook, Kotlin, Firefox, npm, Flask">and 11 more...</div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2025, 23:15:02 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Apr 2025, 00:09:03 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
