@@ -2,7 +2,7 @@
 
 # Welome 🤖
 
-## Completed Projects:
+## Completed Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umar-mq&repo=Face-Restoration-WebUI)]([https://github.com/madushadhanushka/differ](https://github.com/umar-mq/Face-Restoration-WebUI))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umar-mq&repo=chainlit-rag)]([https://github.com/madushadhanushka/differ](https://github.com/umar-mq/chainlit-rag))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umar-mq&repo=UrduRomanizerUI)]([https://github.com/madushadhanushka/differ](https://github.com/umar-mq/UrduRomanizerUI))
