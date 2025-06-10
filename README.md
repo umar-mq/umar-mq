@@ -1,6 +1,6 @@
 ![Metrics](./github-metrics.svg)
 
-# Welome 🤖 (Off on Eid!)
+# Welome 🤖
 
 ## Completed Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umar-mq&repo=Face-Restoration-WebUI)]([https://github.com/madushadhanushka/differ](https://github.com/umar-mq/Face-Restoration-WebUI))
