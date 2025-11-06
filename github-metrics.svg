@@ -215,8 +215,8 @@
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
                             <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
                             <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
-                            <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
+                            <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="Arduino is an open source platform for building electronic devices.">arduino</div>
                             <div class="label" title="C# (&amp;quot;C sharp&amp;quot;) is an object-oriented and type-safe programming language.">c#</div>
@@ -228,7 +228,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2025, 02:11:11 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2025, 03:12:18 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
