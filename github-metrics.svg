@@ -204,8 +204,8 @@
                             <div class="label" title="JavaScript (JS) is a lightweight interpreted programming language with first-class functions.">javascript</div>
                             <div class="label" title="Android is an operating system built by Google designed for mobile devices.">android</div>
                             <div class="label" title="Linux is an open source kernel.">linux</div>
-                            <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
                             <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
+                            <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
                             <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
@@ -222,7 +222,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Oct 2026, 23:55:51 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2026, 03:03:55 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
